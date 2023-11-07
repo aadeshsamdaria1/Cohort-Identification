@@ -33,6 +33,5 @@ To run this project, the following files and data sources are required:
 - SQL queries to retrieve relevant data from the database.
 
 ## Core Packages and Versions
-- Python 3.10.12
 - NumPy 1.23.5
 - Pandas 1.5.3
