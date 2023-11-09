@@ -35,3 +35,6 @@ To run this project, the following files and data sources are required:
 ## Core Packages and Versions
 - NumPy 1.23.5
 - Pandas 1.5.3
+
+## Score
+13.3/15 Points
